@@ -2,8 +2,8 @@
 
 This work is part of the **_"Deep Learning"_** exam project at the **_University of Bari "Aldo Moro"_**, academic year 2021-22.
 
-Author: **_Andrea Montemurro_**
-E-mail: <a.montemurro23@studenti.uniba.it>
+* Author: **_Andrea Montemurro_**
+* E-mail: <a.montemurro23@studenti.uniba.it>
 
 ## Abstract
 
