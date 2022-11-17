@@ -7,9 +7,10 @@ This work is part of the **_"Deep Learning"_** exam project at the **_University
 
 ## Abstract
 
-_Image segmentation is the process of partitioning an image into meaningful regions, and applying this process to images taken from drones or other aerial devices is useful in many processes.Such images are very complex to analyse and at the same time these devices have limited computational resources: it is therefore important to use neural networks that work well even if they are not very heavy.
+_Image segmentation is the process of partitioning an image into meaningful regions, and applying this process to images taken from drones or other aerial devices is useful in many processes. Such images are very complex to analyse and at the same time these devices have limited computational resources: it is therefore important to use architectures that work well even if they are not very heavy.
 In this work, two state-of-the-art networks are compared, which have a relatively small number of parameters in common with others found in the literature. In particular, we want to demonstrate how the SegFormer-based model performs better on a complex dataset containing more than 20 object classes.
-In our experiment, the U-Net EfficientNet architecture achieved about the 40% mIoU and the SegFormer-based model achieved the 53% mIoU, confirming that it performs very well on such complex datasets due to the structure of its encoder._
+In our experiment, the **U-Net EfficientNet** architecture achieved about the 40% mIoU and the  **SegFormer**-based model achieved the 53% mIoU in its "B0" variant, confirming that it performs very well on such complex datasets due to the structure of its encoder.
+Later, we also wanted to see the performance of a less lightweight variant of SegFormer (B3) and achieved a score of about 62% mIoU._
 
 ## Repository description
 
