@@ -14,6 +14,8 @@ Later, we also wanted to see the performance of a less lightweight variant of Se
 
 ## Results
 
+In the following table we report the performance obtained by each model.
+
 ### Metrics
 
 |   mIoU %  | U-Net EfficientNet | SegFormer-B0 | SegFormer-B3 |
@@ -24,10 +26,17 @@ Later, we also wanted to see the performance of a less lightweight variant of Se
 
 ### Visual results
 
+The following images are respectively: the original photo, ground truth, masks predicted by U- Net EfficientNet, SegFormer-B0 and finally SegFormer-B3.
+![Ground Truth](images/last_inference/truth.png "Original Image and its Mask.")
+
+![Light Models](images/last_inference/baseModels.png "Masks obtained by the lightest models.")
+
+![Best Model](images/last_inference/bestModels.png "Masks obtained by the best model.")
+
 
 ## Repository description
 
-In the _"report.pdf"_ you can read all about the experiments, the the architecture used and what are the related works in the literature.
+In the _"report.pdf"_ you can read all about the experiments, the architecture used and what are the related works in the literature.
 
 In the folders you can find all the material used for the experiments, in particular:
 
