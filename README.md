@@ -12,6 +12,19 @@ In this work, two state-of-the-art networks are compared, which have a relativel
 In our experiment, the **U-Net EfficientNet** architecture achieved about the 40% mIoU and the  **SegFormer**-based model achieved the 53% mIoU in its "B0" variant, confirming that it performs very well on such complex datasets due to the structure of its encoder.
 Later, we also wanted to see the performance of a less lightweight variant of SegFormer (B3) and achieved a score of about 62% mIoU._
 
+## Results
+
+### Metrics
+
+|   mIoU %  | U-Net EfficientNet | SegFormer-B0 | SegFormer-B3 |
+|:---------:|:-----:|:------------:|--------------|
+| Train Set | 41,8% |     56,9%    |     75,7%    |
+| Valid Set | 37,2% |     52,5%    |     63,4%    |
+|  Test Set | 39,6% |     52,5%    |     61,7%    |
+
+### Visual results
+
+
 ## Repository description
 
 In the _"report.pdf"_ you can read all about the experiments, the the architecture used and what are the related works in the literature.
