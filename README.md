@@ -42,7 +42,7 @@ In the folders you can find all the material used for the experiments, in partic
 
 * _models_ folder contains the model files obtained from the training phase;
 * _notebooks/train/_ contains the notebooks used for training the models;
-* _notebooks/inference_ contains the notebook you can use to make predictions. You can also use this notebook on [![](https://img.shields.io/badge/kaggle-notebook-blue)]([https://www.kaggle.com/jesperdramsch/intro-to-deep-fakes-videos-and-metadata-eda](https://www.kaggle.com/code/andreamontemurro/drone-semantic-segmentation-inference)).
+* _notebooks/inference_ contains the notebook you can use to make predictions. You can also use this notebook on [![](https://img.shields.io/badge/kaggle-notebook-blue)](https://www.kaggle.com/code/andreamontemurro/drone-semantic-segmentation-inference)).
 * _images_ folder contains some images used in the readme.
 
 ## References
