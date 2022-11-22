@@ -79,6 +79,7 @@ In Proceedings of the Ninth International Symposium on Information and Communica
 
 [10] Chen, Liang-Chieh and Papandreou, George and Schroff, Florian and Adam, Hartwig. Rethinking atrous
 convolution for semantic image segmentation. In arXiv preprint arXiv:1706.0558. 2017.
+
 [11] Heffels, Michael R and Vanschoren, Joaquin. Aerial imagery pixel-level segmentation. In arXiv preprint
 arXiv:2012.02024. 2020.
 
